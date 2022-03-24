@@ -1,6 +1,4 @@
-# TeamLocker
-
-# Products
+# TeamLocker Products
 
 TeamLocker is a project which will (eventually) have three distinct products/outputs all available on PyPI via `pip3 install teamlocker`.
 

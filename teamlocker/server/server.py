@@ -1,6 +1,5 @@
 # This is the code for the server program.
-
-from ..teamlocker import magic
+from teamlocker import magic
 
 def run_server():
     print( f"The magic is {magic(-100)}" )

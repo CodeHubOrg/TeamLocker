@@ -1,0 +1,1 @@
+from teamlocker.server.server import run_server

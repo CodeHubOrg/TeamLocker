@@ -1,6 +1,9 @@
 TeamLocker Products
 ===================
 
+.. image:: https://circleci.com/gh/CodeHubOrg/TeamLocker.svg?style=svg
+    :target: https://circleci.com/gh/CodeHubOrg/TeamLocker
+
 TeamLocker is a project which will (eventually) have three distinct
 products/outputs all available on PyPI via ``pip3 install teamlocker``.
 

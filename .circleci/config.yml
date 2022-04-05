@@ -33,7 +33,7 @@ jobs:
           pkg-manager: poetry
       - run:
           command: |
-            poetry run pytest
+            poetry run pytest --verbose
           name: Run tests
 
 # Invoke jobs via workflows
